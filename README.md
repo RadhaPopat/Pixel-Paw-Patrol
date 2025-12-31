@@ -7,8 +7,8 @@
 
 
 💡 Our Solution
-PixelPaws is a campus-first web application that enables students, staff, and volunteers to quickly report stray dogs, view live cases on a map, and take coordinated action with the help of AI-powered guidance.
-The platform ensures:
+- PixelPaws is a campus-first web application that enables students, staff, and volunteers to quickly report stray dogs, view live cases on a map, and take coordinated action with the help of AI-powered guidance.
+- The platform ensures:
 
 Faster response times
 Zero duplicate reports
