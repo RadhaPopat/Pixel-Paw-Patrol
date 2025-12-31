@@ -65,20 +65,20 @@ Frontend
 
 🌱 Impact & Opportunities
 
-🐾 Saves animal lives through faster response
-🧭 Prevents confusion & duplicate reporting
-🤝 Builds a compassionate campus community
-📈 Easily scalable to other campuses or citie
-🏙️ Can integrate NGOs, vets, and local authorities
+- 🐾 Saves animal lives through faster response
+- 🧭 Prevents confusion & duplicate reporting
+- 🤝 Builds a compassionate campus community
+- 📈 Easily scalable to other campuses or citie
+- 🏙️ Can integrate NGOs, vets, and local authorities
 
 
 🚀 Future Scope
 
-Support for multiple animal types
-Mobile app (Android / iOS)
-Photo upload with reports
-NGO & veterinary integration
-Push notifications & alerts
+- Support for multiple animal types
+- Mobile app (Android / iOS)
+- Photo upload with reports
+- NGO & veterinary integration
+- Push notifications & alerts
 
 ❤️ Why PixelPaws?
 
