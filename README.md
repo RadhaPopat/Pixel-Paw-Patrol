@@ -21,14 +21,15 @@ https://drive.google.com/drive/folders/1BPD2kH9832SLF4ALDfcAVat0cwVilIdn?usp=sha
 
 
 ✨ Key Features
-🔐 Secure Authentication (Email & Google)
-🗺️ Live Campus Map with Dog Locations
-🐕 One-click Stray Dog Reporting
-🔄 Real-time Case Status Updates
-🤖 Dr. Pixel (AI Assistant) for instant care advice
-🏆 Leaderboard & Gamification
-📢 Activity Feed for transparency
-⚡ Firebase real-time synchronization
+
+- 🔐 Secure Authentication (Email & Google)
+- 🗺️ Live Campus Map with Dog Locations
+- 🐕 One-click Stray Dog Reporting
+- 🔄 Real-time Case Status Updates
+- 🤖 Dr. Pixel (AI Assistant) for instant care advice
+- 🏆 Leaderboard & Gamification
+- 📢 Activity Feed for transparency
+- ⚡ Firebase real-time synchronization
 
 
 🧑‍🤝‍🧑 Users & Roles
