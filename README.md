@@ -1,9 +1,9 @@
-🐾 PixelPaws
-Smart Campus Stray Dog Care System
-A real-time, AI-powered platform to report, track, and rescue stray dogs on large campuses.
+🐾 Pixel Paws Patrol
+- Smart Campus Stray Dog Care System
+- A real-time, AI-powered platform to report, track, and rescue stray dogs on large campuses.
 
 🚨 Problem Statement
-On large campuses, injured or hungry stray dogs often go unnoticed due to the absence of a simple reporting system, poor coordination among helpers, and lack of guidance on safe immediate care.
+- On large campuses, injured or hungry stray dogs often go unnoticed due to the absence of a simple reporting system, poor coordination among helpers, and lack of guidance on safe immediate care.
 
 
 💡 Our Solution
