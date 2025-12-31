@@ -1,0 +1,120 @@
+/* Import Pixel Font */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+:root {
+  --pixel-bg: #2c2c2c;
+  --pixel-border: #000;
+  --pixel-accent: #5efc82; /* Retro Green */
+  --pixel-warning: #fce762; /* Retro Yellow */
+}
+
+body {
+  background-color: #4a4a4a;
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+  margin: 0;
+  image-rendering: pixelated;
+}
+
+.container {
+  border: 4px solid var(--pixel-border);
+  background: var(--pixel-bg);
+  box-shadow: 4px 4px 0px #000;
+  padding: 20px;
+  margin: 20px;
+}
+
+button {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 10px;
+  padding: 10px 15px;
+  background: var(--pixel-accent);
+  border: 4px solid #000;
+  box-shadow: -4px -4px 0px inset rgba(0,0,0,0.2), 4px 4px 0px inset rgba(255,255,255,0.5);
+  cursor: pointer;
+  margin: 5px;
+  display: inline-block;
+}
+
+button:active {
+  box-shadow: 2px 2px 0px inset #000;
+  transform: translate(2px, 2px);
+}
+
+#map {
+  height: 70vh;
+  border: 8px solid #000;
+  margin: 10px;
+  box-shadow: 8px 8px 0px rgba(0,0,0,0.3);
+}
+
+#loading-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.9); 
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.loading-dog {
+  width: 64px;
+  image-rendering: pixelated;
+  animation: hop 0.6s infinite alternate;
+}
+
+@keyframes hop {
+  from { transform: translateY(0); }
+  to { transform: translateY(-20px); }
+}
+
+.loading-content p {
+  color: var(--pixel-accent);
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+input, select {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 10px;
+  padding: 10px;
+  background: #fff;
+  border: 4px solid #000;
+  margin-bottom: 10px;
+}
+
+.leaflet-popup-content-wrapper {
+  background: var(--pixel-bg);
+  color: white;
+  border: 4px solid black;
+  border-radius: 0; 
+  font-family: 'Press Start 2P', cursive;
+  font-size: 8px;
+}
+
+.pixel-logo, 
+.leaflet-marker-icon {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+.pixel-logo {
+  width: 200px; 
+  margin-bottom: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.leaflet-popup-content-wrapper {
+  background: #333 !important;
+  color: #fff !important;
+  border: 3px solid #000;
+  border-radius: 0px !important; 
+  font-family: 'Press Start 2P', cursive; 
+}
